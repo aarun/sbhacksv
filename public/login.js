@@ -21,9 +21,7 @@ window.snapKitInit = function () {
   $(".fp5nm8g").css("height", "50px");
   $(".fp5nm8g").css("background-image", "none");
   $(".fp5nm8g span").css("padding-left", "0px");
-  $(".fp5nm8g").change(function () {
-    $(".f8ario5").css("padding-left", "0px !important");
-  });
+  $(".fp5nm8g span").css("vertical-align", "middle");
   $(".fp5nm8g").css("color", "black");
 };
 
