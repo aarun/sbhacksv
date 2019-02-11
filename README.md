@@ -4,7 +4,7 @@ Submission for SBHacks V
 Akhil Arun, Andreas Bigger, Bryan Huang, Ralph Sun
 
 SnapVote - voice your opinions!
-//embed an image
+
 
 # Inspiration
 
@@ -16,7 +16,7 @@ Nowadays, almost everyone has a Snapchat account. We wanted to use the snap kit 
 
 The user logs in through their snapchat account, allowing us to access their bitmoji, a fun and easy way to access a avatar / profile picture. The user can join in on hot live discussions with questions like "Will the Golden State Warriors win the playoffs?" or "Are tech jobs oversaturated?", with the avatars moving to different sides of the arguments live. You can quickly see what sides your friends are in with the avatars.
 
-//embed an image
+
 
 # How we built it
 
@@ -56,5 +56,4 @@ We are interested in adding more features to make the discourse a bit more inter
     - heroku
     - firebase
 
-#Try it out
-[snap-vote.com](https://snap-vote.com)
+[Check the Devpost out](https://devpost.com/software/snap-polls)
